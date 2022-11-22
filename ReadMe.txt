@@ -8,3 +8,4 @@ To customize:
 + In MainModule.ts, Refactor and accept change file name
 + In index.html, replace MainModule with new name
 + Make a run/debug configuration
++ Make necessary changes to package.json
