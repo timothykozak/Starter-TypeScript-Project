@@ -1,0 +1,26 @@
+{
+  "name": "StarterTypeScriptModule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothykozak/Starter-TypeScript-Module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothykozak/Starter-TypeScript-Module/issues"
+  },
+  "homepage": "https://github.com/timothykozak/Starter-TypeScript-Module#readme"
+}
